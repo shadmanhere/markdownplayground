@@ -37,4 +37,7 @@ Some paragarph
 | content | content | content |
 
 
+Example of **bold** , *italic* , ~~strikethrough~~
+
+
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/900px-Octicons-mark-github.svg.png)
